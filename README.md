@@ -8,5 +8,3 @@ Hi there 👋
 - I dev another Telegram bot: [@SimpleObjectDetectionBot](https://t.me/SimpleObjectDetectionBot)
 
 - Enthusiastic in open source apps, MLOps, DevOps, ML and Data Engineering in general.
-
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
