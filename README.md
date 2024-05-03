@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm Ale
+# Hi! I'm Ale
 
 👨‍💻 DevOps & Dev in *[Guanumby AI](https://guanumby.netlify.app/)*<br>
 💻 SysAdmin Manager in *Facultad de Ciencias Agrarias*<br>
@@ -7,14 +7,14 @@
 🎓 System Engineer *Universidad Tecnológica Nacional*<br>
 🧬 Bioinformatician Specialist *Universidad Nacionla de Rosario*
 
-## About me 🤓
-- I'm from Argentina 📍
-- SysAdmin Manager with more than 10 years of experience 👨‍💻
+## About me 
+- I'm from Argentina 🇦🇷
+- SysAdmin Manager with more than 10 years of experience 
 - DevOps an dev in the last 4 years
-- I enjoy teaching and never stop learning 📖
-- Currently learning DevSecOps 🌱
+- Passionate educator and lifelong learner
+-  Currently expanding my knowledge in DevSecOps
 
-## Tech Stack 🛠️
+## Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-darkred?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=flat-square)
