@@ -17,6 +17,7 @@
 ## Tech Stack 🛠️
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat-square&logo=visual%20studio%20code)
 
 ![MySQL](https://img.shields.io/badge/-mySQL-5382a1?style=flat-square&logo=mysql&logoColor=white)
 
