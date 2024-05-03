@@ -1,18 +1,18 @@
 
 # Hi! I'm Ale
 
-👨‍💻 DevOps & Dev in *[Guanumby AI](https://guanumby.netlify.app/)*<br>
-💻 SysAdmin Manager in *Facultad de Ciencias Agrarias*<br>
-👨‍🏫 Posgraduate Professor in *Facultad de Ciencias Agrarias*<br>
-🎓 System Engineer *Universidad Tecnológica Nacional*<br>
-🧬 Bioinformatician Specialist *Universidad Nacionla de Rosario*
+👨‍💻 DevOps & Dev *@ [Guanumby AI](https://guanumby.netlify.app/)*<br>
+💻 SysAdmin Manager *@ Facultad de Ciencias Agrarias*<br>
+👨‍🏫 Posgraduate Professor *@ Facultad de Ciencias Agrarias*<br>
+🎓 System Engineer *@ Universidad Tecnológica Nacional*<br>
+🧬 Bioinformatician Specialist *@ Universidad Nacionla de Rosario*
 
 ## About me 
 - I'm from Argentina 🇦🇷
 - SysAdmin Manager with more than 10 years of experience 
 - DevOps an dev in the last 4 years
 - Passionate educator and lifelong learner
--  Currently expanding my knowledge in DevSecOps
+- Currently expanding my knowledge in DevSecOps
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-blue?style=flat-square&logo=visual%20studio%20code)
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=script)
 ![Nginx](https://img.shields.io/badge/Nginx-darkgreen?style=flat-square&logo=nginx)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-darkorange?style=flat-square&logo=mysql&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-blue?style=flat-square&logo=windows&logoColor=white)
 
 
