@@ -6,6 +6,8 @@
 🎓 System Engineer *@ Universidad Tecnológica Nacional*<br>
 🧬 Bioinformatician Specialist *@ Universidad Nacional de Rosario*
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/apistilli/))
+
 ## About me 
 - I'm from Argentina 🇦🇷
 - SysAdmin Manager with more than 10 years of experience 
