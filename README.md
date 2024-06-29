@@ -17,6 +17,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-darkred?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![NixOS](https://img.shields.io/badge/NixOs-blue?style=flat-square&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-f05133?style=flat-square&logo=git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
