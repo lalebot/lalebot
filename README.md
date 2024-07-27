@@ -41,3 +41,4 @@
 ![Nginx](https://img.shields.io/badge/Nginx-darkgreen?style=flat-square&logo=nginx)
 ![MySQL](https://img.shields.io/badge/MySQL-darkorange?style=flat-square&logo=mysql&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-blue?style=flat-square&logo=windows&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)
