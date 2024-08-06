@@ -8,7 +8,7 @@
 
 ## About me 
 - I'm from Argentina 🇦🇷
-- SysAdmin Manager with more than 10 years of experience 
+- SysAdmin Manager with more than 15 years of experience 
 - DevOps and dev in the last 4 years
 - Passionate educator and lifelong learner
 - Currently expanding my knowledge in DevSecOps and NixOs
